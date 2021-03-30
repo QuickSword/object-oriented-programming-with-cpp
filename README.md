@@ -1,2 +1,2 @@
 # object-oriented-programming-with-cpp
-Semester project for objective programming course
+Semester project for object oriented programming course
