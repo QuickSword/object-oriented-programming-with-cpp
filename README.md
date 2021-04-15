@@ -1,2 +1,4 @@
 # object-oriented-programming-with-cpp
-Semester project for object oriented programming course
+Semester project for object oriented programming course \
+
+Pinball simulation without graphic (by now)
